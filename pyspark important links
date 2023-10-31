@@ -1,0 +1,12 @@
+1.	Partitioning Concepts:  https://www.geeksforgeeks.org/data-partitioning-in-pyspark/#article-meta-div
+2.	Data frame to rdd: https://sparkbyexamples.com/pyspark/pyspark-convert-dataframe-to-rdd/
+3.	Checkpoint
+4.	How to handle bad or corrupted data : 1.https://www.youtube.com/watch?v=ThlpLhZCUtc&list=PLY6Ag0EOw54yWvp_hmSzqrKDLhjdDczNC&index=6&ab_channel=AzarudeenShahul
+2. https://www.geeksforgeeks.org/identify-corrupted-records-in-a-dataset-using-pyspark/
+5.	Rdd to df and df to rdd
+Dafaframe => toDF( )
+Rdd => df.rdd
+6.	  Optimization spark job: https://sparkbyexamples.com/spark/spark-sql-performance-tuning-configurations/
+
+7.	 Real-time PySpark project issue: https://sparkbyexamples.com/spark/different-types-of-issues-while-running-spark-projects/
+8.	broadcast join: https://www.youtube.com/watch?v=EEY7j7a31-8&ab_channel=GeekCoders
